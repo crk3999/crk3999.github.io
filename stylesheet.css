@@ -1,4 +1,8 @@
 * {
     background-color: DarkGray;
-    color: white;
+    
+}
+
+h1 p {
+        color: white;
 }
