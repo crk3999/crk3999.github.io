@@ -1,4 +1,9 @@
-body {
-        color: white;
-        background-color: Black;
+background: rgb(93,109,120);
+background: linear-gradient(90deg, rgba(93,109,120,1) 0%, rgba(68,129,142,1) 100%);
+
+header {
+         text-align: center;
+         font-family: Avanta_Gard;
+        border: 10px solid;
+        border_radius: 10px;
 }
