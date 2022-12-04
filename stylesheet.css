@@ -1,5 +1,8 @@
-background: rgb(93,109,120);
-background: linear-gradient(90deg, rgba(93,109,120,1) 0%, rgba(68,129,142,1) 100%);
+* {
+   background: rgb(93,109,120);
+   background: linear-gradient(90deg, rgba(93,109,120,1) 0%, rgba(68,129,142,1) 100%);
+}
+
 
 header {
          text-align: center;
