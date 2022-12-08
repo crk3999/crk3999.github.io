@@ -1,12 +1,43 @@
-* {
-   background: rgb(93,109,120);
-   background: linear-gradient(90deg, rgba(93,109,120,1) 0%, rgba(68,129,142,1) 100%);
+/*html { color-scheme: light dark; }*/
+
+html {
+   background: linear-gradient(90deg, #8B939A, #5B6467);
 }
 
 
 header {
-         text-align: center;
-         font-family: Avanta_Gard;
-        border: 10px solid;
-        border_radius: 10px;
+        text-align: center;
+        font-family: Helvetica;
+        
+		
+}
+
+.header-img {
+	  
+	  background-repeat: no-repeat;
+	  width: 640px;
+	  height: 400px;
+      border-radius: 10px;
+	  margin: 30px auto;
+	  padding-bottom: 30px;
+	  border-bottom: solid;
+	  
+}
+
+body {
+	  text-align: center;
+}
+
+.block1 {
+		font-size: 20px;
+}
+
+.block2 #body {
+		background-color: white;
+		text-align: center;
+		padding-bottom: 5px;
+}
+
+.block2 #header {
+		padding-top: 50px;
 }
